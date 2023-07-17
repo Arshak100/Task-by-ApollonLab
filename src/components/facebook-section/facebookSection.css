@@ -1,0 +1,103 @@
+.fb-conteiner {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 758px;
+    width: 1920px;
+    background-image: url('../../img/like-fire.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-position-x: 657px;
+    background-position-y: 33px;
+}
+
+.fb-wrapper {
+    height: 374px;
+    width: 1440px;
+    padding-left: 129px;
+    padding-right: 230px;
+}
+
+.fb-second-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.fb-headling-4-block {
+    display: flex;
+    justify-content: center;
+    height: 220px;
+    width: 576px;
+    margin-top: 72px;
+}
+
+.fb-headling-4 #second-span{
+    color: #FF0;
+    text-align: center;
+
+    text-shadow: -5px 3px 10px #00F, 0px 4px #00F;
+    font-family: 'Fighting Spirit turbo';
+    font-size: 116.8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 71px;
+}
+
+.fb-headling-4 #first-span { 
+    color: #FF0;
+    margin-left: 195px;
+
+    text-shadow: -5px 3px 10px #00F, 0px 4px #00F;
+    font-family: Fighting Spirit turbo;
+    font-size: 38.24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 71px;
+}
+
+.fb-like-block {
+    margin-top: 105px;
+}
+
+.soc-content {
+    display: flex;
+    width: 720px;
+    height: 79px;
+    padding-left: 7.19px;
+    align-items: center;
+}
+
+.left-content {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.right-content {
+
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.right-content span {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 57px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.fb-arrow {
+    position: absolute;
+    top: 550px;
+    right: 371px;
+}

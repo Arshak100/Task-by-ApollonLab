@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.048188f4.css",
+    "main.js": "/static/js/main.861bb2d9.js",
+    "static/media/secondBg.jpg": "/static/media/secondBg.29a1a158bba439fbac1f.jpg",
+    "static/media/firstBg.png": "/static/media/firstBg.b5aa9ab40e9335aa2d02.png",
+    "static/media/FightingSpiritturbo.svg": "/static/media/FightingSpiritturbo.bddecdd2b6dcbedf472a.svg",
+    "static/media/pilot.jpg": "/static/media/pilot.52bec88f9e828c0670d5.jpg",
+    "static/media/like-fire.png": "/static/media/like-fire.dc7c5d42662b1795402d.png",
+    "static/media/SpaceMan.png": "/static/media/SpaceMan.f44dffec9d87202f72c1.png",
+    "static/media/slider-img.png": "/static/media/slider-img.8e86d65d43a61636ce38.png",
+    "static/media/rate.png": "/static/media/rate.46ba5dde5bfb91ba97e3.png",
+    "static/media/FightingSpiritturbo.eot": "/static/media/FightingSpiritturbo.7eb6e8018d41966fb8c1.eot",
+    "static/media/FightingSpiritturbo.ttf": "/static/media/FightingSpiritturbo.69512d25a40d263f935c.ttf",
+    "static/media/FightingSpiritturbo.woff": "/static/media/FightingSpiritturbo.72215abcb2ea6b4486cb.woff",
+    "static/media/ape.png": "/static/media/ape.f9a0d2293d7236556784.png",
+    "static/media/beats.png": "/static/media/beats.af723ffb3973a042ff2d.png",
+    "static/media/FightingSpiritturbo.woff2": "/static/media/FightingSpiritturbo.9f2dbdc9a72f30e60ac7.woff2",
+    "static/media/lucifer.png": "/static/media/lucifer.efc0059bfa9843e4996a.png",
+    "static/media/mucki.png": "/static/media/mucki.0877d4b980c75327daab.png",
+    "static/media/scooter.png": "/static/media/scooter.90f1605cbc448d67fb6d.png",
+    "static/media/rat.png": "/static/media/rat.eff9db68e7b0221d474e.png",
+    "static/media/boom-jet.png": "/static/media/boom-jet.1d7838089138ed3fdb5b.png",
+    "static/media/mini_e57.png": "/static/media/mini_e57.80443c9e9132da9ac175.png",
+    "static/media/toilet.png": "/static/media/toilet.9dc91ee1280dcbcb64bf.png",
+    "static/media/mini_burningman.png": "/static/media/mini_burningman.48248ecbb9adc3712ea0.png",
+    "static/media/HeaderImg.png": "/static/media/HeaderImg.9dc9e4f5b71da281587a.png",
+    "static/media/h3bg.png": "/static/media/h3bg.e8556b0e8efbcfd4642c.png",
+    "static/media/Heading3.png": "/static/media/Heading3.9c40317ba0c0e6820ea8.png",
+    "index.html": "/index.html",
+    "main.048188f4.css.map": "/static/css/main.048188f4.css.map",
+    "main.861bb2d9.js.map": "/static/js/main.861bb2d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048188f4.css",
+    "static/js/main.861bb2d9.js"
+  ]
+}

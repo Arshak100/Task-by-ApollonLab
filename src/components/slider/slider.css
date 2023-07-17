@@ -1,0 +1,103 @@
+.slider-wrapper {
+    display: flex;
+    height: 742px;
+    max-width: 1920px;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: #111C46;
+    opacity: 0.8;
+}
+
+.slider-headling-3 {
+    display: flex;
+    width: 960px;
+    height: 110px;
+    justify-content: center;
+    align-items:center;
+    margin-top: 36px;
+
+    background-image: url('../../img/lightning.png');
+    background-position: center;
+}
+
+.slider-headling-3-content {
+    color: #FF0;
+    text-align: center;
+    text-shadow: -5px 3px 10px #00F, 0px 4px #00F;
+    font-family: Fighting Spirit turbo;
+    font-size: 37.4px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.slider-container {
+    height: 395px;
+    width: 1195px;
+    margin-top: 35px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.window {
+    height: 100%;
+    width: 705px;
+    overflow: hidden;
+}
+
+.all-pages-container {
+    height: 100%;
+    display: flex;
+
+    transition: translate;
+    transition-property: transform;
+    transition-duration: 400ms;
+    transition-timing-function: ease-in-out;
+}
+
+.SldArrow {
+    background-color: transparent;
+    border: none;
+    width: 69px;
+    height: 69px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.dots-wrapper {
+    display: flex;
+    margin-top: 90px;
+    width: 720px;
+    padding-left: 315px;
+    padding-right: 315px;
+    align-items: flex-start;
+}
+
+.dots {
+    display: flex;
+    width: 100%;
+    padding-bottom: 7px;
+    padding-top: 5px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 10px;
+}
+
+.dot-item {
+    height: 12px;
+    width: 12px;
+    border-radius: 100%;
+    opacity: 0.5;
+    background-color: #FFF;
+}
+
+.dot-active {
+    height: 12px;
+    width: 12px;
+    border-radius: 100%;
+    background-color: #FFFE04;;
+}

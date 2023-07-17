@@ -1,0 +1,28 @@
+.footer-block {
+    display: flex;
+    max-width: 1920px;
+    height: 72px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-top: 1px solid #4D4D4D;
+}
+
+.footer-p {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.footer-p  span {
+    color: #35BFFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

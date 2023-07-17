@@ -1,0 +1,46 @@
+.sec-section {
+    background: url('../../img/secondBg.jpg') no-repeat;
+    background-position: center;
+    height: 6575px;
+    max-width: 1920px;
+    
+    justify-content: center;
+}
+
+.page {
+    display: flex;
+    justify-content: space-between;
+    gap: 135px;
+} 
+
+.page-img {
+    width: 220px;
+    height: 220px;
+}
+
+.page-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-first-p {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.page-second-p {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

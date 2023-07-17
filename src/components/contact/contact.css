@@ -1,0 +1,159 @@
+.contact-wrapper {
+    height: 765px;
+    max-width: 1920px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 96px;
+}
+
+.contact-headling-2 {
+    display: flex;
+    width: 960px;
+    height: 110px;
+    justify-content: center;
+    align-items:center;
+    padding-top: 12px;
+
+    background-image: url('../../img/lightning.png');
+    background-position: center;
+}
+
+.contact-headling-2-content {
+    color: #FF0;
+    text-align: center;
+    text-shadow: 0px 4px #00F, 0px 3px #00F, -5px 3px 10px #00F, 0px -4px 0px#00F;
+    font-family: Inter;
+    font-size: 34.873px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.contact-p {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.contact-container {
+    margin-top: 25px;
+    height: 604px;
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-section {
+    display: flex;
+    height: 169px;
+    gap: 14px;
+    margin-bottom: 18px;
+}
+
+.input-text {
+    display: flex;
+    width: 343px;
+    padding: 11px;
+    align-items: flex-start;
+
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #000;
+}
+
+.select {
+    display: flex;
+    width: 343px;
+    padding: 6px 30px 8.5px 6px;
+    align-items: flex-start;
+
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.5px;
+
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #000;
+}
+
+#textarea {
+    width: 701px;
+    height: 247px;
+
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #000;
+}
+
+.input-bottom-container {
+    display: flex;
+    gap: 14px;
+    margin-top: 30px;
+    width: 700px;
+    height: 140px;
+}
+
+.input-bottom {
+    width: 240px;
+    height: 45px;  
+    
+    border-radius: 5px;
+    border: 1px solid #C0C0C0;
+    background: #000;
+
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.submit-bottom {
+    height: 51px;
+    max-width: 161px;
+    padding: 14px 24.44px 14px 23px;
+    align-items: flex-start;
+    display: inline-flex;
+    padding: 14px 24.44px 14px 23px;
+    align-items: flex-start;
+    border: none;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    border-radius: 8px;
+    background: #1032BA;    
+}
+
+.input-bottom-container img {
+    height: 50px;
+    width: 223px;
+}

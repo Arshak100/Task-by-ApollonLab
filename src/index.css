@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Open+Sans:wght@400;700&display=swap');
+
+@font-face {
+  font-family: 'Fighting Spirit turbo';
+  src: url('./fonts/FightingSpiritturbo.eot');
+  src: url('./fonts/FightingSpiritturbo.eot?#iefix') format('embedded-opentype'),
+      url('./fonts/FightingSpiritturbo.woff2') format('woff2'),
+      url('./fonts/FightingSpiritturbo.woff') format('woff'),
+      url('./fonts/FightingSpiritturbo.ttf') format('truetype'),
+      url('./fonts/FightingSpiritturbo.svg#FightingSpiritturbo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+body {
+  max-width: 1920px;
+  height: 8009.92px;
+}
+

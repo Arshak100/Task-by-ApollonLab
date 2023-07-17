@@ -1,0 +1,71 @@
+.ch-wrapper {
+    display: flex;
+    height: 692px;
+    max-width: 1920px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #111C46;
+    opacity: 0.8;
+}
+
+.ch-headling-2 {
+    display: flex;
+    width: 960px;
+    height: 110px;
+    justify-content: center;
+    align-items:center;
+
+    background-image: url('../../img/lightning.png');
+    background-position: center;
+}
+
+.ch-headling-2-content {
+    color: #FF0;
+    text-align: center;
+    text-shadow: -5px 3px 10px #00F, 0px 4px #00F;
+    font-family: Fighting Spirit turbo;
+    font-size: 37.4px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ch-p {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ch-container {
+    margin-top: 33px;
+    display: grid;
+    grid-template-columns: repeat(5, 250px);
+    grid-template-rows: 200px;
+    grid-column-gap: 19px;
+    grid-row-gap: 29px;
+    justify-content: center;
+}
+
+.item {
+    text-align: center;
+}
+
+.ch-img {
+    margin-bottom: 20px;
+}
+
+.ch-span {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

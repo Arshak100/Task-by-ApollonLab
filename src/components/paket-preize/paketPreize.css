@@ -1,0 +1,248 @@
+.paket-wrapper {
+    max-width: 1920px;
+    height: 1584px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 288px;
+}
+
+.paket-container {
+    width: 1048px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paket-headling-2 {
+    display: flex;
+    width: 960px;
+    height: 110px;
+    justify-content: center;
+    align-items:center;
+
+    background-image: url('../../img/lightning.png');
+    background-position: center;
+}
+
+.paket-second-headling-2 {
+    display: flex;
+    width: 960px;
+    height: 109px;
+    justify-content: center;
+    align-items:center;
+    margin-top: 74px;
+
+    background-image: url('../../img/lightning.png');
+    background-position: center;
+}
+
+.paket-headling-2-content {
+    color: #FF0;
+    text-align: center;
+    text-shadow: -5px 3px 10px #00F, 0px 4px #00F;
+    font-family: Fighting Spirit turbo;
+    font-size: 37.4px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.paket-p {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.paket-div-wrapper {
+    width: 1048px;
+    height: 790px;
+    display: flex;
+    gap: 10px;
+    margin-top: 96px;
+    justify-content: center;
+    color:#FFF;
+
+    background-color: rgba(0, 0, 0, 0.70);
+}
+
+.paket-list {
+    height: 100%;
+    width: 336px;
+}
+
+.paket-ul {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.paket-item-top {
+    height: 246px;
+    width: 336px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paket-item-top p {
+    text-align: center;
+}
+
+.paket-logo-block {
+    height: 102px;
+    width: 336px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    transform: translateY(-22px);
+}
+
+.paket-logo-block img {
+    height: 58px;
+    width: 58px;
+}
+
+.paket-logo-block span {
+    color: #FF0;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+
+    transform: translateY(-20px);
+}
+
+.paket-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paket-item p {
+    color: #FFF;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.paket-item-bottom {
+    width: 196px;
+    height: 80px;
+}
+
+.bottom-span{
+    margin-top: 18px;
+    color: #FF0;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.paket-item-button {
+    display: inline-flex;
+    padding: 14px 22.88px 14px 24px;
+    align-items: flex-start;
+    border: none;
+    margin-bottom: 29.95px;
+    color: #FFF;
+
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    border-radius: 8px;
+    background: #1032BA;    
+}
+
+/* Second Section */
+
+.paket-logos {
+    margin-top: 22.59px;
+    height: 70px;
+
+    transform: translateY(35px);
+}
+
+.paket-logos-ul {
+    display: flex;
+    list-style: none;
+}
+
+.price-container {
+    display: grid;
+    grid-template-columns: repeat(10, 90px);
+}
+
+.name {
+    display: flex;
+    padding-top: 27px;
+    padding-bottom: 11px;
+    justify-content: center;
+    align-items: center;
+
+    border-right: 1px solid #C0C0C0;
+    background: #000;
+}
+
+.name span{
+    color: #FF0;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.price {
+    display: flex;
+    padding-top: 18px;
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 6px;
+
+    border-right: 1px solid #C0C0C0;
+    background-color: #FF0;
+}
+
+.price span {
+    color: #000;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.end-price {
+    width: 360px;
+}
+
+.logos-price-p {
+    margin-bottom: 39.4px;
+}
+
+
