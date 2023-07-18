@@ -3,7 +3,7 @@
     display: flex;
     background-color: #111C46;
     height: 1000px;
-    max-width: 1920px;
+    max-width: 100%;
     padding: 124.79px 240px 0.01px 240px;
     justify-content: center;
     align-items: flex-start;

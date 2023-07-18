@@ -1,8 +1,9 @@
 .sec-section {
     background: url('../../img/secondBg.jpg') no-repeat;
     background-position: center;
+    background-size: cover;
     height: 6575px;
-    max-width: 1920px;
+    max-width: 100%;
     
     justify-content: center;
 }

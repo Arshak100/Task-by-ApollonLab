@@ -1,7 +1,7 @@
 .ch-wrapper {
     display: flex;
     height: 692px;
-    max-width: 1920px;
+    max-width: 100%;
     flex-direction: column;
     justify-content: center;
     align-items: center;

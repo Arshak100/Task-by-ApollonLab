@@ -23,7 +23,8 @@
 
 
 body {
-  max-width: 1920px;
+  width: 100%;
   height: 8009.92px;
+  justify-content: center;
 }
 

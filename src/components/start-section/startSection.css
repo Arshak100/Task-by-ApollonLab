@@ -6,10 +6,11 @@
 
     background: url('../../img/firstBg.png') no-repeat;
     background-size: cover;
+    background-position: center;
     top: 0;
 
     height: 1394px;
-    max-width:1920px;
+    max-width:100%;
 }
 
 .wrapper {
